@@ -1,0 +1,4 @@
+rootProject.name = 'MyBoard-spring-project'
+
+include 'api'
+include 'common'
